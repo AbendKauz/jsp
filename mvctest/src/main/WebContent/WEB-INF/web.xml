@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+
+  <servlet>
+  	<servlet-name>myController</servlet-name>
+  	<servlet-class>controller.ControllerServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  	<servlet-name>myController</servlet-name>
+  	<url-pattern>/mvctest/ControllerServlet</url-pattern>
+  </servlet-mapping>
+  
+</web-app>

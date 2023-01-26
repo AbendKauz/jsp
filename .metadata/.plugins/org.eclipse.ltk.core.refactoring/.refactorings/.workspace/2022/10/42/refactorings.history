@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;formTag&apos; to &apos;FormTag&apos;" description="Rename resource &apos;formTag&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/formTag" name="FormTag" stamp="1665649013348" updateReferences="true"/>
+</session>

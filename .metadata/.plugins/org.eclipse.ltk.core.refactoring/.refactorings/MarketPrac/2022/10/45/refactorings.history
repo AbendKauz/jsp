@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MarketPrac/src/main/WebContent/resources/scrap/marketPrac&apos; to &apos;marketPrac.sql&apos;" description="Rename resource &apos;marketPrac&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/WebContent/resources/scrap/marketPrac" name="marketPrac.sql" stamp="1667194718565" updateReferences="true"/>
+</session>

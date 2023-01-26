@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#container{
+	width: 600px;
+	margin: auto;
+	padding: 20px;
+	border: 1px solid gray;
+}
+
+#textarea{
+	resize:none;
+}

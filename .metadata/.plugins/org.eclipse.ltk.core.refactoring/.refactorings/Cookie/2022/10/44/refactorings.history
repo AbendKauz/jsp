@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Cookie/src/main/WebContent/session01.jsp&apos; to &apos;cookie01.jsp&apos;" description="Rename resource &apos;session01.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/WebContent/session01.jsp" name="cookie01.jsp" stamp="1666675584877" updateReferences="true"/>
+</session>

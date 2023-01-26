@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MysqlConnectTest/src/main/Webcontent&apos; to &apos;WebContent&apos;" description="Rename resource &apos;Webcontent&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/Webcontent" name="WebContent" stamp="1666588276307" updateReferences="true"/>
+</session>
